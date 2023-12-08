@@ -1,8 +1,6 @@
 Gurkirat Singh Dhatt-Programmer Author
-101211491 
 
-The purpose of this project is to submit assignment 1 for COMP 2404. 
-This will execute and run a room booking application, where students can book a room any day and time and can search rooms that match their criteria and check avaliability. 
+This will execute and run a room booking application, where people can book a room any day and time and can search rooms that match their criteria and check avaliability. 
 
 List of Files
 
